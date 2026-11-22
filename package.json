@@ -1,0 +1,1 @@
+{"name":"pulse-studio-booking","version":"1.0.0","type":"module","scripts":{"dev":"vite --host","build":"vite build","test":"node --test"},"dependencies":{"vite":"*","react":"*","react-dom":"*","react-router-dom":"*"},"devDependencies":{}}
