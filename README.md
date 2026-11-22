@@ -19,7 +19,7 @@ On the schedule, open “Demo controls for edge cases.” Toggle loading failure
 React state, effects, callbacks, routes and forms: `src/main.jsx`; local records and async loader: `src/data.js`; rules: `src/rules.js`; capacity tests: `tests/rules.test.js`; responsive styles: `src/style.css`.
 
 ## Links
-GitHub: not connected yet; source is provided as ZIP with local Git history. Deployment: https://pulse-studio-islamabad-24i2135.balancedbush16.chatgpt.site. Configure deployment to serve `index.html` for all application paths. Final commit: **add hash**.
+GitHub: https://github.com/i242135-cell/CS4032-A02-Pulse-Studio. Deployment: https://pulse-studio-islamabad-24i2135.balancedbush16.chatgpt.site. Configure deployment to serve `index.html` for all application paths. Final commit: run `git rev-parse HEAD` to see the current commit.
 
 ## Limitations
 No backend, actual availability, real payment, or email delivery. Booking confirmation exists in the current session only. The demo availability toggle does not persist across refreshes.
